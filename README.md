@@ -1,4 +1,4 @@
-# MvcFlix - Movies and Series Browser
+# MvcFlix - Movies and Series Browser (Unfinished)
 MvcFlix is an Asp.NET Core MVC project designed to provide a user-friendly interface for browsing movies and series using the OMDb API.
 ## Description 
 MvcFlix is a personal side project created to offer a seamless experience for exploring movies and TV series available on the OMDb API. It's a convenient way to discover, search, and learn more about your favorite films and shows all in one place.
